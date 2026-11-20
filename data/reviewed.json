@@ -1,0 +1,479 @@
+{
+  "tum-isosphere-technologies": {
+    "name": "IsoSphere Technologies",
+    "fields": {
+      "city": "Garching",
+      "country": "DE",
+      "best_find": {
+        "rationale": "IsoSphere pairs a specific research-supply problem with early buyer conversations. Its TUM profile reports over 60 customer interviews and 14 letters of intent. An interview names both founders, and MIT's prize programme independently lists the team. The partner identities, order values and conversion of those letters into paid work remain unverified.",
+        "next_check": "Ask the team how many letters of intent have converted to paid pilots, confirm production readiness and pricing, and verify incorporation and prior equity financing with primary records."
+      },
+      "team": [
+        {
+          "name": "Alba Impelmann",
+          "role": "Co-founder & CEO",
+          "source_url": "https://chemanager-online.com/en/products/isosphere-technologies-fltmc-finalist-profile"
+        },
+        {
+          "name": "Mark Deeprose",
+          "role": "Co-founder & CTO",
+          "source_url": "https://chemanager-online.com/en/products/isosphere-technologies-fltmc-finalist-profile"
+        }
+      ]
+    },
+    "evidence": [
+      {
+        "source_id": "chemanager",
+        "source_name": "CHEManager",
+        "url": "https://chemanager-online.com/en/products/isosphere-technologies-fltmc-finalist-profile",
+        "title": "IsoSphere Technologies: FLTMC Finalist Profile",
+        "quote": "Co-Founders Alba Impelmann (CEO) and Mark Deeprose (CTO)",
+        "claim": "The founder interview identifies Alba Impelmann as CEO and Mark Deeprose as CTO.",
+        "signal_type": "TEAM_FORMATION",
+        "published_at": "2026-06-01",
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:25:41Z"
+      },
+      {
+        "source_id": "mit_cep",
+        "source_name": "MIT Climate & Energy Prize",
+        "url": "https://cep.mit.edu/",
+        "title": "Meet the 2026 MIT CEP Winners!",
+        "quote": "$5k Munich Semi-fininalist: IsoSphere Technologies",
+        "claim": "The organiser lists IsoSphere for the $5,000 Munich semifinal prize.",
+        "signal_type": "STARTUP_AWARD",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:25:39Z"
+      },
+      {
+        "source_id": "baystartup",
+        "source_name": "BayStartUP",
+        "url": "https://www.baystartup.de/startupdate/acht-startups-im-finale-des-muenchner-businessplan-wettbewerbs-2026",
+        "title": "Acht Startups im Finale des Münchner Businessplan Wettbewerbs 2026",
+        "quote": "IsoSphere Technologies aus Garching",
+        "claim": "BayStartUP lists the Garching team as a Munich Business Plan Competition finalist.",
+        "signal_type": "COMPETITION_FINALIST",
+        "published_at": "2026-07-29",
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:26:47Z"
+      }
+    ]
+  },
+  "htgf-98883": {
+    "name": "IO-Dynamics",
+    "fields": {
+      "summary": "Founded by Johann Olsen, Nabil Imran and Felix Kruse in Flensburg, the IT company IO-Dynamics supports its customers in making…",
+      "website": "https://www.iodynamics.de"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/io-dynamics/",
+        "title": "IO-Dynamics",
+        "quote": "Founded by Johann Olsen, Nabil Imran and Felix Kruse in Flensburg, the IT company IO-Dynamics supports its customers in making",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-12862": {
+    "name": "Raumfeld (Exit)",
+    "fields": {
+      "summary": "Digitising music has brought many benefits – but there are also downsides. Music collections are often shared between various devices…"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/raumfeld-3/",
+        "title": "Raumfeld (Exit)",
+        "quote": "Digitising music has brought many benefits – but there are also downsides. Music collections are often shared between various devices",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-1675": {
+    "name": "Implandata Ophthalmic Products",
+    "fields": {
+      "summary": "IOP GmbH will initiate a paradigm chance in glaucoma therapy by its products for telemetric, 24 hour monitoring of intraocular…",
+      "website": "https://www.implandata.com/index.html"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/implandata-ophthalmic-products-2/",
+        "title": "Implandata Ophthalmic Products",
+        "quote": "IOP GmbH will initiate a paradigm chance in glaucoma therapy by its products for telemetric, 24 hour monitoring of intraocular",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-1506": {
+    "name": "EGYM",
+    "fields": {
+      "summary": "Provider of corporate wellness solutions and smart fitness equipment",
+      "website": "https://www.egym.de/"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/egym/",
+        "title": "EGYM",
+        "quote": "Provider of corporate wellness solutions and smart fitness equipment",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-20215": {
+    "name": "fodjan (Exit)",
+    "fields": {
+      "summary": "fodjan is a web-based software to optimize the feeding of livestock. The new software is the first of its kind…"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/fodjan-2/",
+        "title": "fodjan (Exit)",
+        "quote": "fodjan is a web-based software to optimize the feeding of livestock. The new software is the first of its kind",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-71697": {
+    "name": "Neural Concept",
+    "fields": {
+      "summary": "The AI-native engineering platform",
+      "website": "https://neuralconcept.com/"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/neural-concept/",
+        "title": "Neural Concept",
+        "quote": "The AI-native engineering platform",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-101471": {
+    "name": "GS Bavaria",
+    "fields": {
+      "summary": "GS Bavaria is the world‘s first supplier of nano- hard metal materials on industrial scale. Production is extremely cost-efficient, sustainable…",
+      "website": "https://www.gs-bavaria.com/"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/gs-bavaria/",
+        "title": "GS Bavaria",
+        "quote": "GS Bavaria is the world‘s first supplier of nano- hard metal materials on industrial scale. Production is extremely cost-efficient, sustainable",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-99331": {
+    "name": "EEDEN",
+    "fields": {
+      "summary": "From textile waste to tomorrow’s resources.",
+      "website": "https://eeden.world/"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/eeden/",
+        "title": "EEDEN",
+        "quote": "From textile waste to tomorrow’s resources.",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-69663": {
+    "name": "Instagrid",
+    "fields": {
+      "summary": "Most advanced portable batteries for professionals",
+      "website": "https://instagrid.co/"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/instagrid/",
+        "title": "Instagrid",
+        "quote": "Most advanced portable batteries for professionals",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-48123": {
+    "name": "Enscape™",
+    "fields": {
+      "summary": "Leading real-time visualisation software for architects and designers",
+      "website": "https://www.enscape3d.com"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/enscape-2/",
+        "title": "Enscape™",
+        "quote": "Leading real-time visualisation software for architects and designers",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-1503": {
+    "name": "Quentic (Exit)",
+    "fields": {
+      "summary": "Quentic is one of the leading solution providers of Software as a Service (SaaS) for EHSQ and ESG management. The…"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/ecointense-2/",
+        "title": "Quentic (Exit)",
+        "quote": "Quentic is one of the leading solution providers of Software as a Service (SaaS) for EHSQ and ESG management. The",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-1317": {
+    "name": "Hornetsecurity (Exit)",
+    "fields": {
+      "summary": "European champion for global cloud security",
+      "website": "https://www.hornetsecurity.com"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/hornetsecurity-2/",
+        "title": "Hornetsecurity (Exit)",
+        "quote": "European champion for global cloud security",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-123112": {
+    "name": "Medical Decision Alliance",
+    "fields": {
+      "summary": "MDA was founded in 2023 by Dr Gunter Trojandt, Annett Christ and two business angels, Jozsef Bugovics and Nils Kröber.…",
+      "website": "https://medical-decision-alliance.com/"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/medical-decision-alliance/",
+        "title": "Medical Decision Alliance",
+        "quote": "MDA was founded in 2023 by Dr Gunter Trojandt, Annett Christ and two business angels, Jozsef Bugovics and Nils Kröber.",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-79138": {
+    "name": "Arioso Systems",
+    "fields": {
+      "summary": "Arioso Systems GmbH develops and markets a novel disruptive micro-speaker chip technology, based on silicon MEMS (Micro-ElectroMechanical Systems). Arioso Systems…"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/arioso-systems-2/",
+        "title": "Arioso Systems",
+        "quote": "Arioso Systems GmbH develops and markets a novel disruptive micro-speaker chip technology, based on silicon MEMS (Micro-ElectroMechanical Systems). Arioso Systems",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-118047": {
+    "name": "IonKraft",
+    "fields": {
+      "summary": "IonKraft is a spin-off from the Institute for Plastics Processing (IKV) at RWTH Aachen University in Germany and is funded…",
+      "website": "https://ionkraft.com/"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/ionkraft/",
+        "title": "IonKraft",
+        "quote": "IonKraft is a spin-off from the Institute for Plastics Processing (IKV) at RWTH Aachen University in Germany and is funded",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-107245": {
+    "name": "Proxima Fusion",
+    "fields": {
+      "summary": "Stellarator fusion reactors to power the future",
+      "website": "https://www.proximafusion.com"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/proxima-fusion/",
+        "title": "Proxima Fusion",
+        "quote": "Stellarator fusion reactors to power the future",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-2216": {
+    "name": "SimScale",
+    "fields": {
+      "summary": "Market leader in cloud-native simulation software for rapid design decisions in engineering",
+      "website": "https://www.simscale.de/"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/simscale/",
+        "title": "SimScale",
+        "quote": "Market leader in cloud-native simulation software for rapid design decisions in engineering",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-2028": {
+    "name": "MYR (Exit)",
+    "fields": {
+      "summary": "First-in-class Entry-Inhibitor for the treatment of chronic hepatitis Delta"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/myr-2/",
+        "title": "MYR (Exit)",
+        "quote": "First-in-class Entry-Inhibitor for the treatment of chronic hepatitis Delta",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  },
+  "htgf-2045": {
+    "name": "Next Kraftwerke (Exit)",
+    "fields": {
+      "summary": "European market leader for virtual power plants",
+      "website": "https://www.next-kraftwerke.de/"
+    },
+    "evidence": [
+      {
+        "source_id": "htgf",
+        "source_name": "High-Tech Gründerfonds",
+        "url": "https://www.htgf.de/en/portfolio/htgffamily/next-kraftwerke-3/",
+        "title": "Next Kraftwerke (Exit)",
+        "quote": "European market leader for virtual power plants",
+        "claim": "The HTGF company profile describes this portfolio business.",
+        "signal_type": "PORTFOLIO_PROFILE",
+        "published_at": null,
+        "event_date": null,
+        "first_observed_at": "2026-11-20T14:17:42Z",
+        "retrieved_at": "2026-11-20T14:17:42Z"
+      }
+    ]
+  }
+}

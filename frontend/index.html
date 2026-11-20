@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#172c2e" />
+    <meta
+      name="description"
+      content="An evidence-first European venture discovery workspace for HTGF research."
+    />
+    <title>FounderRadar · Venture discovery</title>
+    <link rel="icon" type="image/svg+xml" href="/frontend/favicon.svg" />
+    <link rel="stylesheet" href="/frontend/style.css" />
+    <script type="module" src="/frontend/app.js"></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="mast">
+      <div class="mast-inner">
+        <a
+          class="brand"
+          href="?view=discover"
+          data-view="discover"
+          aria-label="FounderRadar home"
+          ><img
+            src="/frontend/favicon.svg"
+            width="32"
+            height="32"
+            alt=""
+          /><span>Founder<span class="brand-light">Radar</span></span></a
+        >
+        <nav aria-label="Main navigation" class="navbar" id="nav"></nav>
+        <div class="mast-actions">
+          <button
+            type="button"
+            class="gear"
+            data-action="settings"
+            aria-label="Workspace settings"
+            title="Workspace settings"
+          ></button
+          ><button type="button" class="scan-btn" data-action="scan"></button>
+        </div>
+      </div>
+    </header>
+    <main id="main" tabindex="-1">
+      <div class="loading-shell" role="status">Loading research workspace…</div>
+    </main>
+    <dialog id="detail-dialog" class="sheet">
+      <div id="detail-content"></div>
+    </dialog>
+    <dialog id="action-dialog" class="popup">
+      <div id="action-content"></div>
+    </dialog>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <noscript
+      ><p>
+        This workspace requires JavaScript for interactive search. Open
+        <a href="/api/v1/leads">the candidate data</a> to view the local index.
+      </p></noscript
+    >
+  </body>
+</html>

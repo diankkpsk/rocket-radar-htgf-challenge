@@ -1,0 +1,177 @@
+[
+  {
+    "file": "tum.html",
+    "url": "https://www.tum.de/en/innovation/entrepreneurship/news-events/tum-ideaward",
+    "retrieved_at": "2026-11-20T14:17:36Z",
+    "sha256": "ee5d1f06fd15aae40fab7fce18a8a3abbf46c6d61572e75a5c26909b4aadc5e6",
+    "bytes": 410814
+  },
+  {
+    "file": "kit.html",
+    "url": "https://www.kit-forge.de/en/magazine/",
+    "retrieved_at": "2026-11-20T14:19:59Z",
+    "sha256": "d7e9392c7eb73c7c187dafe67e0c5d24ce2fdf46e7628e47699da7691bce4c87",
+    "bytes": 73256
+  },
+  {
+    "file": "kit-mableai.html",
+    "url": "https://www.kit-forge.de/en/magazine/founder-of-the-month-mableai/",
+    "retrieved_at": "2026-11-20T14:25:32Z",
+    "sha256": "bcd52e68fd6a2650afe4a4838ffb5244e3a537ea7a96fa414a7ea80c0b64a241",
+    "bytes": 68243
+  },
+  {
+    "file": "kit-detail.html",
+    "url": "https://www.kit-forge.de/en/magazine/founder-of-the-month-onsite-solutions/",
+    "retrieved_at": "2026-11-20T14:22:21Z",
+    "sha256": "a79425663e41ada1840d3adc79e88ad6820a17688d51d5b06e224923ed391b98",
+    "bytes": 68123
+  },
+  {
+    "file": "kit-charge-circle.html",
+    "url": "https://www.kit-forge.de/en/magazine/founder-of-the-month-charge-circle/",
+    "retrieved_at": "2026-11-20T14:25:33Z",
+    "sha256": "e1ce5ea843344df4919253d2ed0b70b27e5b788d90947aaf087faa2fd27172ed",
+    "bytes": 65886
+  },
+  {
+    "file": "kit-data-revolution.html",
+    "url": "https://www.kit-forge.de/en/magazine/founder-of-the-month-data-revolution/",
+    "retrieved_at": "2026-11-20T14:25:35Z",
+    "sha256": "fe105513c06988922225a2eb7a00d1da1633cf4747501a2ea506a3bc623a1ce1",
+    "bytes": 69669
+  },
+  {
+    "file": "kit-marton-ai.html",
+    "url": "https://www.kit-forge.de/en/magazine/founder-of-the-month-marton-ai/",
+    "retrieved_at": "2026-11-20T14:25:36Z",
+    "sha256": "59b2e51e9715cfd298b5cf98abd8a6a782b08894776e05a2711db8bb43e57113",
+    "bytes": 70638
+  },
+  {
+    "file": "kit-razo-energy.html",
+    "url": "https://www.kit-forge.de/en/magazine/founder-of-the-month-razo-energy/",
+    "retrieved_at": "2026-11-20T14:25:37Z",
+    "sha256": "f61e342c120489e901c04e46ad04ff6fb32da24f77a7289fb20bf3ec18cb422b",
+    "bytes": 67952
+  },
+  {
+    "file": "htgf-wp-1.json",
+    "url": "https://www.htgf.de/wp-json/wp/v2/portfolio?lang=en&per_page=100&page=1&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Cclass_list%2Clang%2Cslug",
+    "retrieved_at": "2026-11-20T14:19:59Z",
+    "sha256": "4ee213ad42027c5075ad5d404416186c30cde8e7880eafd6e3496e19356a048f",
+    "bytes": 42820
+  },
+  {
+    "file": "htgf-wp-2.json",
+    "url": "https://www.htgf.de/wp-json/wp/v2/portfolio?lang=en&per_page=100&page=2&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Cclass_list%2Clang%2Cslug",
+    "retrieved_at": "2026-11-20T14:20:00Z",
+    "sha256": "6bbccdd70961f1b3e2a5377fde94d049f9a5e586154388eb288f81c0f57d899d",
+    "bytes": 41945
+  },
+  {
+    "file": "htgf-wp-3.json",
+    "url": "https://www.htgf.de/wp-json/wp/v2/portfolio?lang=en&per_page=100&page=3&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Cclass_list%2Clang%2Cslug",
+    "retrieved_at": "2026-11-20T14:20:02Z",
+    "sha256": "025cacf48daec8f8acc28965bc07c1ed363e6d34bfaadf91d064119719a45dd6",
+    "bytes": 40171
+  },
+  {
+    "file": "htgf-wp-4.json",
+    "url": "https://www.htgf.de/wp-json/wp/v2/portfolio?lang=en&per_page=100&page=4&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Cclass_list%2Clang%2Cslug",
+    "retrieved_at": "2026-11-20T14:20:04Z",
+    "sha256": "c0fbaba1c6ce7215ee8a8d71b597832fa63f0fc189f6ff44525d3f7776ca8ef5",
+    "bytes": 37269
+  },
+  {
+    "file": "htgf-wp-5.json",
+    "url": "https://www.htgf.de/wp-json/wp/v2/portfolio?lang=en&per_page=100&page=5&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Cclass_list%2Clang%2Cslug",
+    "retrieved_at": "2026-11-20T14:20:05Z",
+    "sha256": "e1bd84b0fcf61279758c3d3258c0ba8ccacfb90f80c71243f1c835db37bc996c",
+    "bytes": 35056
+  },
+  {
+    "file": "htgf-wp-6.json",
+    "url": "https://www.htgf.de/wp-json/wp/v2/portfolio?lang=en&per_page=100&page=6&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Cclass_list%2Clang%2Cslug",
+    "retrieved_at": "2026-11-20T14:20:06Z",
+    "sha256": "9efdc6684b7c578e725f2d0db181820fea8dfbfe7c2d5f81cc1165973b4dac12",
+    "bytes": 15352
+  },
+  {
+    "file": "htgf-rich-1.json",
+    "url": "https://www.htgf.de/wp-json/wp/v2/portfolio?lang=en&per_page=100&page=1&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Cclass_list%2Clang%2Cslug%2Ccontent",
+    "retrieved_at": "2026-11-20T14:25:42Z",
+    "sha256": "ed34cbcae9d0bbcb56bb1c55ce9b94ad2778cb03960c957b0eecc09f4fe12b0b",
+    "bytes": 520593
+  },
+  {
+    "file": "htgf-rich-2.json",
+    "url": "https://www.htgf.de/wp-json/wp/v2/portfolio?lang=en&per_page=100&page=2&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Cclass_list%2Clang%2Cslug%2Ccontent",
+    "retrieved_at": "2026-11-20T14:25:43Z",
+    "sha256": "9e71140ca4991c79db6c76cdabd4f6968c79898fd4d79f8f7d122e4dfd6e4c58",
+    "bytes": 518145
+  },
+  {
+    "file": "htgf-rich-3.json",
+    "url": "https://www.htgf.de/wp-json/wp/v2/portfolio?lang=en&per_page=100&page=3&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Cclass_list%2Clang%2Cslug%2Ccontent",
+    "retrieved_at": "2026-11-20T14:25:45Z",
+    "sha256": "ec15b6c10965abf6211fee0dbbe15fc7252e59be9ddb6b757243b0fee95bfd6f",
+    "bytes": 516371
+  },
+  {
+    "file": "htgf-rich-4.json",
+    "url": "https://www.htgf.de/wp-json/wp/v2/portfolio?lang=en&per_page=100&page=4&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Cclass_list%2Clang%2Cslug%2Ccontent",
+    "retrieved_at": "2026-11-20T14:25:46Z",
+    "sha256": "1be9dff470d2ba2bdd24c09bce7e4eeedfa4d82991200f70e13da61afb55e421",
+    "bytes": 513469
+  },
+  {
+    "file": "htgf-rich-5.json",
+    "url": "https://www.htgf.de/wp-json/wp/v2/portfolio?lang=en&per_page=100&page=5&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Cclass_list%2Clang%2Cslug%2Ccontent",
+    "retrieved_at": "2026-11-20T14:25:48Z",
+    "sha256": "e7db3e6e3e6cdc4f6b183664151822bbe1144cab819e8d45eb4dda95d6a065d1",
+    "bytes": 511256
+  },
+  {
+    "file": "htgf-rich-6.json",
+    "url": "https://www.htgf.de/wp-json/wp/v2/portfolio?lang=en&per_page=100&page=6&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Cclass_list%2Clang%2Cslug%2Ccontent",
+    "retrieved_at": "2026-11-20T14:25:49Z",
+    "sha256": "13c4beddea29fc67745059148f4c7f5fcd4c61d2c07fa1fc68a48a694e8850b1",
+    "bytes": 210594
+  },
+  {
+    "file": "best.txt",
+    "url": null,
+    "retrieved_at": "2026-11-20T14:17:42Z",
+    "sha256": "d228a74df6cd0c4caddc6598b477f85a1ca882ceadcfb6eff8c53db55fd368d7",
+    "bytes": 42622
+  },
+  {
+    "file": "chem.html",
+    "url": "https://chemanager-online.com/en/products/isosphere-technologies-fltmc-finalist-profile",
+    "retrieved_at": "2026-11-20T14:25:41Z",
+    "sha256": "f762e567eb27a51076c63662cfff3a38233f54f013dad233e1ca2d49b1f59715",
+    "bytes": 29045
+  },
+  {
+    "file": "mit.html",
+    "url": "https://cep.mit.edu/",
+    "retrieved_at": "2026-11-20T14:25:39Z",
+    "sha256": "c8338d6952ab3ef482366974f2cca4c4449e1af28bdbfece572a59f51325d3b4",
+    "bytes": 265812
+  },
+  {
+    "file": "bay.html",
+    "url": "https://www.baystartup.de/startupdate/acht-startups-im-finale-des-muenchner-businessplan-wettbewerbs-2026",
+    "retrieved_at": "2026-11-20T14:26:47Z",
+    "sha256": "0656fc8f39953c4ba13c1d198dded248aa17e7237a3828489b4aeff8138a1798",
+    "bytes": 56565
+  },
+  {
+    "file": "htgf_profiles.txt",
+    "retrieved_at": "2026-11-20T14:17:42Z",
+    "kind": "Archived public profile readings",
+    "sha256": "8b1eebba3b8c297698d5517aab7a70ca25d8316d1915b0091e7ac711bfe8e1a4",
+    "bytes": 69716
+  }
+]

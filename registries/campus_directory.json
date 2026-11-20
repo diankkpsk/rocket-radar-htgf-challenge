@@ -1,0 +1,142 @@
+[
+  {
+    "id": "campus_unternehmertum",
+    "name": "UnternehmerTUM Incubator",
+    "kind": "University",
+    "url": "https://incubator.unternehmertum.de/portfolio/",
+    "notes": "Munich, Germany. Incubator portfolio with team names, product descriptions and links."
+  },
+  {
+    "id": "campus_kit_foundings",
+    "name": "KIT-Gründerschmiede founding teams",
+    "kind": "University",
+    "url": "https://kit-gruenderschmiede.de/en/founders/",
+    "notes": "Karlsruhe, Germany. Directory of teams advised by KIT, with industry, topic and development-phase filters."
+  },
+  {
+    "id": "campus_fu_berlin",
+    "name": "Freie Universität Berlin incubation projects",
+    "kind": "University",
+    "url": "https://www.fu-berlin.de/forschung/technologietransfer/gruendungsservice/betreute-aktuelle-Gruendungsvorhaben/index.html",
+    "notes": "Berlin, Germany. Profund Innovation describes selected projects in incubation. Review each project’s own entry for evidence of grants."
+  },
+  {
+    "id": "campus_humboldt",
+    "name": "Humboldt-Innovation startup portfolio",
+    "kind": "University",
+    "url": "https://humboldt-innovation.de/en/startup-service/startup-portfolio",
+    "notes": "Berlin, Germany. Portfolio of startups supported by the Humboldt-Universität zu Berlin transfer organisation."
+  },
+  {
+    "id": "campus_hamburg_port",
+    "name": "Startup Port startup stories",
+    "kind": "University",
+    "url": "https://startupport.de/startups/",
+    "notes": "Hamburg metropolitan region, Germany. Public profiles from the regional university and research network include business ideas, sectors and, for some teams, founding years."
+  },
+  {
+    "id": "campus_dresden_exists",
+    "name": "dresden|exists founder portraits",
+    "kind": "University",
+    "url": "https://www.dresden-exists.de/blog/tag/gruenderportrait/",
+    "notes": "Dresden, Germany. Founder interviews from Dresden’s university and research startup service, with dated links to individual stories."
+  },
+  {
+    "id": "campus_rwth_spin_off_award",
+    "name": "RWTH Aachen Spin-off Award",
+    "kind": "University",
+    "url": "https://www.rwth-campus.com/news/rwth-spin-off-award-2026-runde-2/",
+    "notes": "Aachen, Germany. The November 2026 demo-day report identifies the second round of Spin-off Award recipients and describes each team’s work."
+  },
+  {
+    "id": "campus_cologne_gateway",
+    "name": "University of Cologne Gateway startup portfolio",
+    "kind": "University",
+    "url": "https://gateway-unikoeln.de/en/startingup/unsere-startups",
+    "notes": "Cologne, Germany. Gateway’s startup directory links to profiles explaining what each venture offers."
+  },
+  {
+    "id": "campus_darmstadt_highest",
+    "name": "TU Darmstadt HIGHEST startups",
+    "kind": "University",
+    "url": "https://highest-darmstadt.de/unternehmen/start-ups/",
+    "notes": "Darmstadt, Germany. HIGHEST profiles ventures supported at TU Darmstadt and at other universities in the region. Check the individual entry for its affiliation."
+  },
+  {
+    "id": "campus_leipzig_smile",
+    "name": "Leipzig University SMILE",
+    "kind": "University",
+    "url": "https://smile.uni-leipzig.de/startups/",
+    "notes": "Leipzig, Germany. SMILE presents selected startups by sector, with descriptions of their products or services."
+  },
+  {
+    "id": "campus_potsdam_transfer",
+    "name": "University of Potsdam startup projects",
+    "kind": "University",
+    "url": "https://www.uni-potsdam.de/en/potsdam-transfer/startup/startup-service/start-up-projects",
+    "notes": "Potsdam, Germany. Potsdam Transfer describes university startup projects and links to project and company sites where available."
+  },
+  {
+    "id": "campus_bonn_enacom",
+    "name": "University of Bonn enaCom",
+    "kind": "University",
+    "url": "https://www.uni-bonn.de/en/research-and-teaching/transfer/transfer-center-enacom/founding-a-company/start-ups",
+    "notes": "Bonn, Germany. The university transfer centre publishes examples of ventures across departments, including established alumni companies."
+  },
+  {
+    "id": "campus_heidelberg",
+    "name": "Heidelberg University founding examples",
+    "kind": "University",
+    "url": "https://www.uni-heidelberg.de/en/research/technology-transfer/founding-examples",
+    "notes": "Heidelberg, Germany. University profiles describe selected startups and spin-offs and give a startup year for individual entries."
+  },
+  {
+    "id": "campus_bremen_bridge",
+    "name": "BRIDGE Bremen startup gallery",
+    "kind": "University",
+    "url": "https://bridge-online.de/existenzgruendungsberatung/gruendungsgalerie",
+    "notes": "Bremen, Germany. Bremen’s university startup network lists ventures, websites and sector or programme tags."
+  },
+  {
+    "id": "campus_stuttgart_traces",
+    "name": "University of Stuttgart TRACES Entrepreneurship",
+    "kind": "University",
+    "url": "https://www.traces.uni-stuttgart.de/en/about-us/entrepreneurship/",
+    "notes": "Stuttgart, Germany. The university transfer centre describes its startup programmes, funding guidance and support for research spin-offs."
+  },
+  {
+    "id": "campus_eth_zurich",
+    "name": "ETH Zurich spin-offs and startups",
+    "kind": "University",
+    "url": "https://entrepreneurship.ethz.ch/startup-stories/explore-startup-portraits-and-success-stories/uebersicht-eth-spin-offs.html",
+    "notes": "Zurich, Switzerland. ETH Entrepreneurship publishes its university venture reports and an overview of ventures awarded an ETH label."
+  },
+  {
+    "id": "campus_yes_delft",
+    "name": "YES!Delft",
+    "kind": "University",
+    "url": "https://yesdelft.com/",
+    "notes": "Delft, Netherlands. The incubator names participating startups and publishes programme news and founder stories."
+  },
+  {
+    "id": "campus_aalto",
+    "name": "Aalto Startup Center alumni companies",
+    "kind": "University",
+    "url": "https://startupcenter.aalto.fi/alumni-companies",
+    "notes": "Espoo, Finland. The startup centre links to a list of selected companies that have completed its programmes."
+  },
+  {
+    "id": "campus_epfl",
+    "name": "EPFL startups in creation",
+    "kind": "University",
+    "url": "https://www.epfl.ch/innovation/startup/discover-our-startups/epfl-startup-in-creation/",
+    "notes": "Lausanne, Switzerland. EPFL profiles research teams developing ventures through its startup programmes."
+  },
+  {
+    "id": "campus_vienna_inits",
+    "name": "INiTS Vienna SCALEup",
+    "kind": "University",
+    "url": "https://www.inits.at/scaleup-batch-spring26/",
+    "notes": "Vienna, Austria. The incubator’s spring 2026 SCALEup cohort page describes participants and its demo day."
+  }
+]
