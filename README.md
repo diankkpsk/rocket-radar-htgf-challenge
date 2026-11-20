@@ -12,7 +12,7 @@ Python 3.12 or later is required. From this folder run the following.
 python3 run.py
 ```
 
-Open http://127.0.0.1:8766/. The launcher creates a local virtual environment and installs requirements.lock on first use if its runtime is missing. Internet access is needed for that installation. A prepared virtual environment already exists in this delivered folder. Use the following command to reuse it directly.
+Open http://127.0.0.1:8766/. The launcher creates a local virtual environment and installs requirements.lock on first use if its runtime is missing. Internet access is needed for that installation. Once the virtual environment has been created, use the following command to reuse it directly.
 
 ```sh
 .venv/bin/python run.py
